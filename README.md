@@ -16,3 +16,6 @@ PSD to UI Interface Generator
   * ex. `"Avatar image" -> var avatarImage = Ti.UI.createImageView({…});`
 * Dragging UI proxy elements live updates source code
 
+
+
+__© 2013 AppXen. All rights reserved.__
